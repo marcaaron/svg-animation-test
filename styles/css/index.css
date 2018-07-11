@@ -1,0 +1,83 @@
+body {
+  background: black; }
+
+.view {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 50px; }
+
+.pacman {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-position: 0px 0px;
+  background: url("../../img/pacman.svg");
+  animation: animater 1s steps(16) infinite; }
+
+.big-clouds {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-position: 0px 0px;
+  background: url("../../img/big-clouds.svg");
+  z-index: -2;
+  animation: animater 15s linear infinite reverse; }
+
+.small-clouds {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-position: 0px 0px;
+  background: url("../../img/small-clouds.svg");
+  animation: clouds 15s linear infinite reverse;
+  z-index: -1;
+  transform: translateY(0); }
+
+.sand {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-position: 0px 0px;
+  background: url("../../img/sand.svg");
+  animation: animater 20s linear infinite reverse;
+  z-index: -1; }
+
+.palms {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-position: 0px 0px;
+  background: url("../../img/palms.svg");
+  animation: animater 40s linear infinite reverse; }
+
+.ocean {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-position: 0px 0px;
+  background: url("../../img/water.svg");
+  animation: animater 1s linear infinite alternate reverse;
+  z-index: -2; }
+
+@keyframes animater {
+  to {
+    background-position: 8000px 0; } }
+
+@keyframes clouds {
+  0% {
+    background-position: 0px 0;
+    transform: translateY(-30px); }
+  25% {
+    background-position: 2000px 0;
+    transform: translateY(10px); }
+  50% {
+    background-position: 4000px 0;
+    transform: translateY(-30px); }
+  75% {
+    background-position: 6000px 0;
+    transform: translateY(10px); }
+  100% {
+    background-position: 8000px 0;
+    transform: translateY(-30px); } }

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 4000 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" style="fill: rgb(187, 238, 255);"/>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 190.18129, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <rect width="500" height="500" style="fill: rgb(187, 238, 255);" x="500"/>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 560.181274, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 870.181274, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <rect width="500" height="500" style="fill: rgb(187, 238, 255);" x="1000"/>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 1190.181274, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <rect width="500" height="500" style="fill: rgb(187, 238, 255);" x="1500"/>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 1560.181274, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 1870.181274, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <rect width="500" height="500" style="fill: rgb(187, 238, 255);" x="2000"/>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 2190.181152, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <rect width="500" height="500" style="fill: rgb(187, 238, 255);" x="2500"/>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 2560.181152, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 2870.181152, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <rect width="500" height="500" style="fill: rgb(187, 238, 255);" x="3000"/>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 3190.181152, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <rect width="500" height="500" style="fill: rgb(187, 238, 255);" x="3500"/>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 3560.181152, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <g transform="matrix(0.650312, 0.113795, -0.113795, 0.650312, 3870.181152, 68.31765)">
+    <circle cx="50.989" cy="151.489" r="29.624" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="84.396" cy="139.024" r="39.024" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="118.599" cy="131.839" r="39.793" style="fill: rgb(255, 255, 255);"/>
+    <circle cx="99.994" cy="114.15" r="36.595" style="fill: rgb(255, 255, 255);"/>
+  </g>
+</svg>
